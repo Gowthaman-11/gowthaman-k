@@ -23,11 +23,11 @@ AWS Data Engineer with 3+ years of experience building ETL pipelines, Data Lakes
 
 ## Featured Projects
 
-- AWS ETL Data Pipeline
-- Apache Airflow ETL Orchestration
-- Snowflake Data Warehouse
-- PySpark Data Processing
-- Real-Time Kinesis Pipeline
+- [AWS ETL Data Pipeline](https://github.com/Gowthaman-11/aws-etl-data-pipeline)
+- [Apache Airflow ETL Orchestration](https://github.com/Gowthaman-11/airflow-etl-orchestration)
+- [Snowflake Data Warehouse](https://github.com/Gowthaman-11/snowflake-data-warehouse)
+- [PySpark Data Processing](https://github.com/Gowthaman-11/pyspark-data-processing)
+- [Real-Time Kinesis Pipeline](https://github.com/Gowthaman-11/real-time-kinesis-pipeline)
 
 ## Certifications
 
